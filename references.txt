@@ -1,0 +1,2 @@
+https://blog.logrocket.com/react-dynamic-imports-route-centric-code-splitting-guide/
+https://www.youtube.com/watch?v=7kNLXE0hixM
